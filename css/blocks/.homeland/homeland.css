@@ -1,0 +1,33 @@
+.homeland {
+  width: 100%;
+  margin: 90px 0 0 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.homeland__title {
+  width: 793px;
+  margin: 0 0 32px 0;
+  font-size: 96px;
+  line-height: 1.05;
+  font-weight: bold;
+  text-align: center;
+  color: #fff;
+}
+
+.homeland__subtitle {
+  width: 720px;
+  margin: 0 0 64px 0;
+  font-size: 30px;
+  line-height: 1.2;
+  font-weight: normal;
+  text-align: center;
+  color: #fff;
+}
+
+.homeland__image {
+  width: 984px;
+  height: 615px;
+  object-fit: contain;
+}
