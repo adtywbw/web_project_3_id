@@ -33,7 +33,7 @@
   background-color: rgba(0, 0, 0, 0.8);
 }
 
-.contact__container {
+.cover__contact-container {
   width: 656px;
   height: 254px;
   position: absolute;
@@ -43,7 +43,7 @@
   z-index: 3;
 }
 
-.contact__title {
+.cover__title {
   margin: 0 auto 30px;
   font-size: 72px;
   font-weight: bold;
@@ -52,7 +52,7 @@
   color: #fff;
 }
 
-.contact__subtitle {
+.cover__subtitle {
   margin: 0 auto;
   width: 280px;
   font-size: 18px;
@@ -62,7 +62,7 @@
   color: #fff;
 }
 
-.contact__button {
+.cover__button {
   margin: 0 auto;
   width: 137px;
   height: 48px;
@@ -83,10 +83,10 @@
   transform: translateX(-50%);
 }
 
-.contact__button:hover {
+.cover__button:hover {
   background-color: #0063d2;
 }
 
-.contact__button:hover .cover__overlay {
+.cover__button:hover .cover__overlay {
   background-color: rgba(0, 0, 0, 0.8);
 }

@@ -255,19 +255,19 @@
     height: auto;
   }
 
-  .contact__container {
+  .cover__contact-container {
     width: 90%;
     max-width: 655px;
     height: 163px;
     max-height: 253px;
   }
 
-  .contact__title {
+  .cover__title {
     font-size: 32px;
     line-height: 1.1;
   }
 
-  .contact__subtitle {
+  .cover__subtitle {
     font-size: 14px;
     line-height: 1.15;
   }
