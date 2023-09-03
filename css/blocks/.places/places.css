@@ -3,7 +3,7 @@
   margin: 92px 0 0 0;
 }
 
-.place__container {
+.places__container {
   width: 984px;
   height: 756px;
   margin: 0 auto 80px;
@@ -21,12 +21,12 @@
   position: relative;
 }
 
-.place__container_small {
+.places__container_small {
   height: 680px;
   grid-template-rows: 98px repeat(2, 217px) 70px;
 }
 
-.place__container_large {
+.places__container_large {
   height: 814px;
   grid-template-rows: 174px repeat(3, 1fr) 70px;
   grid-template-areas:
@@ -37,7 +37,7 @@
     "button text-3";
 }
 
-.place__title {
+.places__title {
   margin: 0;
   font-family: Inter;
   font-size: 72px;
@@ -47,19 +47,19 @@
   grid-area: title;
 }
 
-.place__title_small {
+.places__title_small {
   font-size: 60px;
   line-height: 1;
 }
 
-.place__image {
+.places__image {
   width: 460px;
   height: 460px;
   grid-area: image;
   object-fit: contain;
 }
 
-.place__button {
+.places__button {
   width: 304px;
   height: 48px;
   font-size: 18px;
@@ -77,11 +77,11 @@
   bottom: 0;
 }
 
-.place__button_bottom {
+.places__button_bottom {
   bottom: 58px;
 }
 
-.place__button:hover {
+.places__button:hover {
   background-color: #0063d2;
 }
 
@@ -109,7 +109,7 @@
   color: #fff;
 }
 
-.place__paragraph {
+.places__paragraph {
   margin: 0;
   font-size: 18px;
   font-weight: 400;
@@ -118,20 +118,20 @@
   grid-area: text-1;
 }
 
-.place__paragraph_small {
+.places__paragraph_small {
   font-size: 16.5px;
   line-height: 1.6;
 }
 
-.place__paragraph_mid {
+.places__paragraph_mid {
   grid-area: text-2;
 }
 
-.place__paragraph_bottom {
+.places__paragraph_bottom {
   grid-area: text-3;
 }
 
-.place__paragraph_bottom-position {
+.places__paragraph_bottom-position {
   position: absolute;
   bottom: 0;
 }
