@@ -18,3 +18,40 @@
   height: 213px;
   object-fit: contain;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .gallery {
+    margin: 48px 0 0 0;
+  }
+
+  .gallery__grid {
+    width: 90%;
+    max-width: 352px;
+    height: auto;
+    grid-gap: 12px;
+    grid-template-columns: 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+  }
+  .gallery__item {
+    width: 100%;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .gallery {
+    margin: 38px 0 0 0;
+  }
+
+  .gallery__grid {
+    width: 720px;
+    height: auto;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+  }
+
+  .gallery__item {
+    width: 352px;
+    height: 264px;
+  }
+}

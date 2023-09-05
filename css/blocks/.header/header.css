@@ -25,3 +25,26 @@
   height: 14.94px;
   object-fit: contain;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .header {
+    padding: 20px 0 0 0;
+  }
+
+  .header__container {
+    width: 200px;
+    height: 51.85px;
+  }
+
+  .header__logo {
+    width: 23.7px;
+    max-width: 33.99px;
+    height: 23.7px;
+    max-height: 33.99px;
+  }
+
+  .header__title {
+    width: 100%;
+    height: auto;
+  }
+}

@@ -31,3 +31,53 @@
   height: 615px;
   object-fit: contain;
 }
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .homeland {
+    width: 100%;
+    max-width: 767px;
+    margin: 50.15px 0 0 0;
+  }
+
+  .homeland__title {
+    width: 90%;
+    max-width: 288px;
+    font-size: 40px;
+  }
+
+  .homeland__subtitle {
+    width: 90%;
+    max-width: 288px;
+    font-size: 16px;
+  }
+
+  .homeland__image {
+    width: 100%;
+    max-width: 767px;
+    height: auto;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .homeland {
+    width: 100%;
+    max-width: 1279px;
+  }
+
+  .homeland__title {
+    width: 93.75%;
+    max-width: 720px;
+  }
+
+  .homeland__subtitle {
+    width: 93.75%;
+    max-width: 720px;
+  }
+
+  .homeland__image {
+    width: 100%;
+    max-width: 984px;
+    height: auto;
+    max-height: 615px;
+  }
+}
