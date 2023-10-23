@@ -3,23 +3,11 @@
 }
 
 .homepage {
-  width: 1280px;
+  width: 100%;
+  min-width: 320px;
+  max-width: 1280px;
   margin: 0 auto;
   font-family: "Inter", Arial, sans-serif;
   font-size: 16px;
   background-color: #2a2c2f;
-}
-
-@media screen and (min-width: 320px) and (max-width: 767px) {
-  .homepage {
-    width: 100%;
-    min-width: 320px;
-    max-width: 767px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1279px) {
-  .homepage {
-    width: 100%;
-  }
 }

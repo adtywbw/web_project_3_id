@@ -1,21 +1,36 @@
-# Proyek 4: Dari Kampung Halaman ke Kampung Halaman
+# Dari Tanah Air ke Tanah Air
 
-### Gambaran umum
+Selamat datang di proyek "Dari Tanah Air ke Tanah Air." Situs web ini merupakan hasil kolaborasi Figma, HTML, dan CSS untuk menciptakan pengalaman perjalanan yang menarik dan interaktif.
 
-- Pengantar
-- Figma
-- Gambar
+## Daftar Isi
 
-**Pengantar**
+- [Deskripsi](#deskripsi)
+- [Tampilan Prototipe](#tampilan-prototipe)
+- [Teknologi yang Digunakan](#teknologi-yang-digunakan)
+- [Instalasi](#instalasi)
+- [Penggunaan](#penggunaan)
+- [Lisensi](#lisensi)
 
-Ini adalah proyek yang menampilkan kampung halaman beberapa karyawan Practicum. Kita telah membuatnya sehingga semua elemen ditampilkan secara tepat di ukuran layar yang populer. Kami sarankan untuk meluangkan lebih banyak waktu dalam menyelesaikan proyek ini, karena ini lebih sulit daripada proyek yang sebelumnya.
+## Deskripsi
 
-**Figma**
+Situs web ini adalah proyek kolaborasi yang memadukan desain tampilan menggunakan Figma dan implementasi web dengan HTML dan CSS. Tujuannya adalah untuk menciptakan pengalaman perjalanan yang memukau dan menarik.
 
-- [Tautkan ke proyek di Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)
+## Tampilan Prototipe
 
-**Gambar**
+Anda dapat melihat tampilan prototipe desain situs web "Dari Tanah Air ke Tanah Air" di [Figma](https://www.figma.com/file/t48BkKKEhP7K0mP5Vmr26O/Web_Brief_Sprint_4_ID-%7C-Dari-Tanah-Air-ke-Tanah-Air-%7C-desktop-%2B-mobile?type=design&node-id=0-1&mode=design&t=cKtd1SAgMJar3oH4-0).
 
-Cara kamu melakukannya di tempat kerja adalah dengan mengekspor gambar langsung dari dari Figma — kami sarankan melakukan itu untuk berlatih lebih banyak. Jangan lupa untuk mengoptimalkannya [di sini] (https://tinypng.com/), sehingga proyek kamu dimuat lebih cepat.
+## Teknologi yang Digunakan
 
-Semoga berhasil dan bersenang-senanglah!
+- [Figma](https://www.figma.com)
+- HTML
+- CSS
+
+## Instalasi
+
+Anda dapat melihat prototipe desain situs web ini di Figma tanpa perlu instalasi. Namun, jika Anda ingin menjalankan situs web implementasi (HTML dan CSS) secara lokal, ikuti langkah-langkah berikut:
+
+1. Clone repositori ini:
+
+## Lisensi
+
+Proyek ini dilisensikan di bawah Aditya Wibowo.
