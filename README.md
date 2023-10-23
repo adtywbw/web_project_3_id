@@ -8,7 +8,6 @@ Selamat datang di proyek "Dari Tanah Air ke Tanah Air." Situs web ini merupakan 
 - [Tampilan Prototipe](#tampilan-prototipe)
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Instalasi](#instalasi)
-- [Penggunaan](#penggunaan)
 - [Lisensi](#lisensi)
 
 ## Deskripsi
@@ -29,7 +28,9 @@ Anda dapat melihat tampilan prototipe desain situs web "Dari Tanah Air ke Tanah 
 
 Anda dapat melihat prototipe desain situs web ini di Figma tanpa perlu instalasi. Namun, jika Anda ingin menjalankan situs web implementasi (HTML dan CSS) secara lokal, ikuti langkah-langkah berikut:
 
-1. Clone repositori ini:
+1. Clone repositori ini: https://github.com/adtywbw/web_project_3_id
+2. Buka folder yang sudah anda clone tadi
+3. Jalankan file index.html di browser anda
 
 ## Lisensi
 
