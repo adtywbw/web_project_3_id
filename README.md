@@ -9,6 +9,7 @@ Selamat datang di proyek "Dari Tanah Air ke Tanah Air." Situs web ini merupakan 
 - [Teknologi yang Digunakan](#teknologi-yang-digunakan)
 - [Instalasi](#instalasi)
 - [Lisensi](#lisensi)
+- [Tautan ke GitHub Pages](#tautan-ke-github-pages)
 
 ## Deskripsi
 
@@ -23,6 +24,10 @@ Anda dapat melihat tampilan prototipe desain situs web "Dari Tanah Air ke Tanah 
 - [Figma](https://www.figma.com)
 - HTML
 - CSS
+
+## Tautan ke GitHub Pages
+
+Anda juga dapat melihat proyek ini secara langsung di [GitHub Pages](https://adtywbw.github.io/web_project_3_id/), yang menyediakan tampilan langsung proyek.
 
 ## Instalasi
 
